@@ -78,5 +78,11 @@ please contact the author directly.
 
 ## 📜 License
 
-This dataset is released under the **MIT License** for code and **CC BY 4.0 License** for data.  
-You are free to use, share, and modify the dataset with attribution.
+This demo dataset is released under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.  
+You are free to use, share, and adapt this dataset **for non-commercial purposes** with proper attribution.
+
+🔒 **Commercial use of this dataset or access to the full version is only available upon request.**  
+Please contact the author for licensing and collaboration opportunities.
+
+🔗 [CC BY-NC 4.0 License Overview](https://creativecommons.org/licenses/by-nc/4.0/)
+
