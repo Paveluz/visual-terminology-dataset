@@ -23,7 +23,7 @@ Each entry in the dataset contains the following fields:
 
 | Field                | Description |
 |----------------------|-------------|
-| `image_file`         | Name of the image file (e.g., `fig1_milling.png`) |
+| `image_file`         | Name of the image file (e.g., `track_schematic_diagram.png`) |
 | `image_caption_en`   | Image caption in English (optional) |
 | `image_caption_ru`   | Image caption in Russian (optional) |
 | `category`           | Domain or subject area of the image |
