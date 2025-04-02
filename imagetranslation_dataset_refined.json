@@ -1,0 +1,62 @@
+[
+  {
+    "image_file": "track_schematic_diagram.png",
+    "image_caption_ru": "Схематическое изображение железнодорожного пути",
+    "image_caption_en": "Track schematic diagram",
+    "category": "Railway Engineering",
+    "terms": [
+      {
+        "label_number": 1,
+        "term_ru": "Рельсошпальная решетка",
+        "term_en": "Rail track panel",
+        "term_uz": "",
+        "term_cn": "",
+        "term_de": "",
+        "context_term_ru": "Железнодорожная рельсошпальная решетка (РШР) – это готовый к установке блок рельсового полотна длиной 25 метров или половинные по 12,5 м",
+        "context_term_en": "Under dynamic load from trains and environmental conditions, the rail track panel deteriorates, leading to wear and collapse of its structural elements.",
+        "context_term_uz": "",
+        "context_term_cn": "",
+        "context_term_de": ""
+      },
+      {
+        "label_number": 2,
+        "term_ru": "Балластная призма",
+        "term_en": "Ballast",
+        "term_uz": "",
+        "term_cn": "",
+        "term_de": "",
+        "context_term_ru": "",
+        "context_term_en": "",
+        "context_term_uz": "",
+        "context_term_cn": "",
+        "context_term_de": ""
+      },
+      {
+        "label_number": 3,
+        "term_ru": "Земляное полотно",
+        "term_en": "Subgrade; Earth bed; Formation",
+        "term_uz": "",
+        "term_cn": "",
+        "term_de": "",
+        "context_term_ru": "",
+        "context_term_en": "",
+        "context_term_uz": "",
+        "context_term_cn": "",
+        "context_term_de": ""
+      },
+      {
+        "label_number": 4,
+        "term_ru": "Песчаная подушка",
+        "term_en": "Sand cushion",
+        "term_uz": "",
+        "term_cn": "",
+        "term_de": "",
+        "context_term_ru": "",
+        "context_term_en": "",
+        "context_term_uz": "",
+        "context_term_cn": "",
+        "context_term_de": ""
+      }
+    ]
+  }
+]
