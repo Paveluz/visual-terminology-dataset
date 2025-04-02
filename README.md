@@ -19,6 +19,10 @@ This dataset is designed to help train and evaluate language models, multimodal 
 
 ## 📁 Dataset Structure
 
+### 🖼️ Example Illustration
+
+![Track schematic](./track_schematic_diagram.png)
+
 Each entry in the dataset contains the following fields:
 
 | Field                | Description |
